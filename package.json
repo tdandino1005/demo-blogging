@@ -1,5 +1,5 @@
 {
-  "name": "vanilla-vite-tailwind",
+  "name": "fake-blog-cms",
   "version": "0.0.0",
   "scripts": {
     "start": "vite",
@@ -7,6 +7,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
     "autoprefixer": "^10.4.12",
     "eslint": "^8.26.0",
     "eslint-config-prettier": "^8.5.0",
